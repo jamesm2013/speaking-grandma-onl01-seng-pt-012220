@@ -15,8 +15,7 @@ def speak_to_grandma
   IF phase == "I LOVE YOU TO GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
   elsif PHASE == phase.DOWNCASE
-"HUH?! SPEAK UP SONNY!"
-else "NO, NOT SINCE 1938!"
-
+    "NO, NOT SINCE 1938!"
+ELSE 
 end
 end
