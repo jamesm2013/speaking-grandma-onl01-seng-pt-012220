@@ -13,5 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma
   IF phase == "I LOVE YOU TO GRANDMA!"
-  PUTS "I LOVE YOU TOO PUMPKIN!"
+  return "I LOVE YOU TOO PUMPKIN!"
 end
