@@ -16,5 +16,7 @@ def speak_to_grandma
   return "I LOVE YOU TOO PUMPKIN!"
   elsif phase.down case
   "HUH?! SPEAK UP SONNY!"
+else
+
 end
 end
