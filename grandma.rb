@@ -16,7 +16,7 @@ def speak_to_grandma
   return "I LOVE YOU TOO PUMPKIN!"
   elsif phase.down case
   "HUH?! SPEAK UP SONNY!"
-else "NO, NOT SENCE"
+else "NO, NOT SINCE 1938"
 
 end
 end
